@@ -1,0 +1,6 @@
+SQLQuery9.sql - LAPTOP-T11ADT69\SQLEXPRESS.MyDatabase (LAPTOP-T11ADT69\UJJWAL (69))*
+
+- Querying transaction count (Success)
+
+
+
